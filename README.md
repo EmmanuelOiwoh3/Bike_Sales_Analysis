@@ -28,4 +28,6 @@ Develop an SQL-based analytics to deliver detailed insights into:
 
 These insights would empower stakeholders with key metrics for decision making
 
+#### About Me
+My Name is Emmanuel Pius Oiwoh, I am a Pharmacist and a data analyst. I convert raw data into actionable insights, helping stakeholders make decisions
 
